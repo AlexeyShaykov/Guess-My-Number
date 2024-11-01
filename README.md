@@ -18,7 +18,7 @@
 
 </div>
 
-<hr><a href="#demo-">Demo</a> &bull; <a href="#quick-start-">Quick Start</a> &bull; <a href="#download-links-">Download Links</a> &bull; <a href="#technologies-&-tools-">Technologies & Tools</a></p>
+<hr><a href="#demo-">Demo</a> &bull; <a href="#download-links-">Download Links</a> &bull; <a href="#quick-start-">Quick Start</a> &bull; <a href="#technologies-">Technologies</a></p>
 <hr>
 
 ## Demo 📷
@@ -26,6 +26,10 @@
 <img src="./assets/images/1.jpg" width=300> <img src="./assets/images/2.jpg" width=300>
 <img src="./assets/images/3.jpg" width=300> <img src="./assets/images/4.jpg" width=300>
 <img src="./assets/images/5.jpg" width=300>
+
+## Download Links 📥
+
+- [GitHub Releases](https://github.com/AlexeyShaykov/Native_game/releases/tag/1.0.0)
 
 ## Quick Start 🔨
 
@@ -58,9 +62,10 @@ npm run start
 ```
 
 
-## Technologies & Tools 🔧
+## Technologies 🔧
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)

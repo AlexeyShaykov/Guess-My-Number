@@ -9,13 +9,20 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-native/eslint-config": "^0.75.2",
     "expo": "~51.0.28",
     "expo-status-bar": "~1.12.1",
+    "prettier": "^3.3.3",
     "react": "18.2.0",
-    "react-native": "0.74.5"
+    "react-native": "0.74.5",
+    "expo-linear-gradient": "~13.0.2",
+    "expo-font": "~12.0.10",
+    "expo-splash-screen": "~0.27.5"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
   },
   "private": true
 }
+
+// https://github.com/academind/react-native-practical-guide-code/tree/04-deep-dive-real-app

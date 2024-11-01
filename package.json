@@ -1,5 +1,5 @@
 {
-  "name": "reactnativegameapp",
+  "name": "react_native_game_app",
   "version": "1.0.0",
   "main": "expo/AppEntry.js",
   "scripts": {
@@ -24,5 +24,3 @@
   },
   "private": true
 }
-
-// https://github.com/academind/react-native-practical-guide-code/tree/04-deep-dive-real-app
